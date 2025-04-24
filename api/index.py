@@ -7,7 +7,7 @@ from pydantic import BaseModel
 from telegram import Update, Bot
 from telegram.ext import Dispatcher, MessageHandler, Filters, CommandHandler
 
-TOKEN = os.environ.get("TOKEN")
+TOKEN = os.environ.get("6937226035:AAFHqYaI3QTx1w3SlrAAE6dq0et_InUAsJQ")
 
 app = FastAPI()
 
